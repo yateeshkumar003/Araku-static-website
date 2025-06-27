@@ -51,6 +51,8 @@ Want to change images? Replace image URLs in the <img> tags.
 Modify background images in the CSS under .bg-container, .favourite-places-bg-container, and .detailed-view-bg-container.
 
 📸 Preview
+![Uploading image.png…]()
+
 
 
 📄 License
